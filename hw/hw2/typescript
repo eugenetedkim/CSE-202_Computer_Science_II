@@ -1,0 +1,12 @@
+Script started on 2018-02-14 17:46:05-0800
+]777;notify;Command completed;exit]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/hw/hw2]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw2[006083489@csusb.edu@jb358-32 hw2]$ make
+make: 'Course' is up to date.
+]777;notify;Command completed;make]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/hw/hw2]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw2[006083489@csusb.edu@jb358-32 hw2]$ ./Course
+To see students, enter course number: MATH272
+Jack
+Kim
+Tony
+]777;notify;Command completed;./Course]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/hw/hw2]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw2[006083489@csusb.edu@jb358-32 hw2]$ exit
+exit
+
+Script done on 2018-02-14 17:46:19-0800

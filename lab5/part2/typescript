@@ -1,0 +1,23 @@
+Script started on 2018-02-17 18:33:29-0800
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/lab5/part2[006083489@csusb.edu@jb358-1 part2]$ make
+g++ -c main.cpp
+g++ -c Instructor.cpp
+g++ -c Student.cpp
+g++ -c Person.cpp
+g++ -o main main.o Instructor.o Student.o Person.o
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/lab5/part2[006083489@csusb.edu@jb358-1 part2]$ main
+
+Eugene 5/23/97
+
+
+Eugene 5/23/97
+Student, Major: Computer Science
+
+
+Ms. Tiffany 1/1/77
+Instructor, Salary: 70000
+
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/lab5/part2[006083489@csusb.edu@jb358-1 part2]$ exit
+exit
+
+Script done on 2018-02-17 18:33:43-0800

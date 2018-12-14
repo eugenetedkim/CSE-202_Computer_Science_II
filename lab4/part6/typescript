@@ -1,0 +1,25 @@
+Script started on 2018-02-12 10:50:41-0800
+]777;notify;Command completed;./Person]0;006083489@csusb.edu@jb359-25:~/Academics/Winter2018/lab4/part6]7;file://jb359-25.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab4/part6[006083489@csusb.edu@jb359-25 part6]$ make
+g++ -c Person_main.cpp
+g++ -o Person Person_main.o Person.o
+]777;notify;Command completed;make]0;006083489@csusb.edu@jb359-25:~/Academics/Winter2018/lab4/part6]7;file://jb359-25.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab4/part6[006083489@csusb.edu@jb359-25 part6]$ ./Person
+
+Warning: Jackie already exists in file!
+Duplicate name, Jackie, not added.
+
+Who is Jackie's best friend? Jack
+Who is Jack's best friend? Sam
+Couldn't find best friend Sam. Please enter another name.
+Who is Jack's best friend? Jack
+Who is Amanda's best friend? Connie
+Who is Rod's best friend? Amanda
+Who is Connie's best friend? Jackie
+Jackie    Jack       1
+Jack      Jack       2
+Amanda    Connie     1
+Rod       Amanda     0
+Connie    Jackie     1
+]777;notify;Command completed;./Person]0;006083489@csusb.edu@jb359-25:~/Academics/Winter2018/lab4/part6]7;file://jb359-25.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab4/part6[006083489@csusb.edu@jb359-25 part6]$ exit
+exit
+
+Script done on 2018-02-12 10:51:43-0800

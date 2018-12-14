@@ -1,0 +1,24 @@
+Script started on 2018-03-03 01:20:51-0800
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/hw/hw3[006083489@csusb.edu@jb358-1 hw3]$ make
+make: 'main' is up to date.
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/hw/hw3[006083489@csusb.edu@jb358-1 hw3]$ main
+Enter id: 16753
+CSC2 B+
+MTH121 C+
+CHN1 A
+PHY50 A-
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/hw/hw3[006083489@csusb.edu@jb358-1 hw3]$ main
+Enter id: 53200
+MTH121 B
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/hw/hw3[006083489@csusb.edu@jb358-1 hw3]$ main
+Enter id: 53100
+CSC151 C
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/hw/hw3[006083489@csusb.edu@jb358-1 hw3]$ main
+Enter id: 12547
+CSC1 B
+CSC2 B
+CSC46 A
+]0;006083489@csusb.edu@jb358-1:~/Academics/Winter2018/hw/hw3[006083489@csusb.edu@jb358-1 hw3]$ exit
+exit
+
+Script done on 2018-03-03 01:21:49-0800

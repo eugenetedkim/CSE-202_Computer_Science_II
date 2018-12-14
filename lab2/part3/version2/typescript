@@ -1,0 +1,21 @@
+Script started on 2018-01-29 17:14:38-0800
+]777;notify;Command completed;exit]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab2/part3/version2]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab2/part3/version2[006083489@csusb.edu@jb358-32 version2]$ g++ -o append append.cpp
+]777;notify;Command completed;g++ -o append append.cpp]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab2/part3/version2]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab2/part3/version2[006083489@csusb.edu@jb358-32 version2]$ ./append
+Please enter number to add to vector a: 9
+Please enter number to add to vector a or -1 to stop: 4
+Please enter number to add to vector a or -1 to stop: 1
+Please enter number to add to vector a or -1 to stop: 16
+Please enter number to add to vector a or -1 to stop: 5
+Please enter number to add to vector a or -1 to stop: 8
+Please enter number to add to vector a or -1 to stop: 7
+Please enter number to add to vector a or -1 to stop: -1
+Please enter number to add to vector b: 3
+Please enter number to add to vector b or -1 to stop: 5
+Please enter number to add to vector b or -1 to stop: 10
+Please enter number to add to vector b or -1 to stop: 2
+Please enter number to add to vector b or -1 to stop: -1
+9 4 1 16 5 8 7 3 5 10 2 
+]777;notify;Command completed;./append]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab2/part3/version2]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab2/part3/version2[006083489@csusb.edu@jb358-32 version2]$ exit
+exit
+
+Script done on 2018-01-29 17:15:03-0800

@@ -1,0 +1,13 @@
+Script started on 2018-03-12 20:54:47-0700
+]777;notify;Command completed;cat binary_search.cpp]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab9]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab9[006083489@csusb.edu@jb358-32 lab9]$ g++ Stack_rt[K[Ktest.cpp -o Stack_test
+]777;notify;Command completed;g++ Stack_test.cpp -o Stack_test]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab9]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab9[006083489@csusb.edu@jb358-32 lab9]$ Stack_test
+1
+2
+3
+4
+to write something Yoda said 
+Error: Cannot use pop() on empty vector.
+]777;notify;Command completed;Stack_test]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab9]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab9[006083489@csusb.edu@jb358-32 lab9]$ exit
+exit
+
+Script done on 2018-03-12 20:55:12-0700

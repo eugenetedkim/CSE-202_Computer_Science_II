@@ -1,0 +1,15 @@
+Script started on 2018-02-05 15:28:02-0800
+]777;notify;Command completed;exit]0;006083489@csusb.edu@jb358-27:~/Academics/Winter2018/lab3/part6]7;file://jb358-27.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab3/part6[006083489@csusb.edu@jb358-27 part6]$ g++ main.cpp
+]777;notify;Command completed;g++ main.cpp]0;006083489@csusb.edu@jb358-27:~/Academics/Winter2018/lab3/part6]7;file://jb358-27.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab3/part6[006083489@csusb.edu@jb358-27 part6]$ ./a.out
+str1=abcd str2=efg
+strlen(str1)=4 strlen(str2)=3
+str1=efg
+str1=efgefg
+strcmp(str1, str2)=101
+strcmp(str2, "efh")=-1
+str2=hi
+str2=hi jkl
+]777;notify;Command completed;./a.out]0;006083489@csusb.edu@jb358-27:~/Academics/Winter2018/lab3/part6]7;file://jb358-27.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab3/part6[006083489@csusb.edu@jb358-27 part6]$ exit
+exit
+
+Script done on 2018-02-05 15:28:11-0800

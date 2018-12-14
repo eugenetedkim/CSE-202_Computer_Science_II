@@ -1,0 +1,26 @@
+Script started on 2018-03-12 16:19:44-0700
+]777;notify;Command completed;ssh jb359-1]0;006083489@csusb.edu@jb358-23:~/Academics/Winter2018/lab8]7;file://jb358-23.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab8[006083489@csusb.edu@jb358-23 lab8]$ g++ binary_search.cpp -o binary_search
+]777;notify;Command completed;g++ binary_search.cpp -o binary_search]0;006083489@csusb.edu@jb358-23:~/Academics/Winter2018/lab8]7;file://jb358-23.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab8[006083489@csusb.edu@jb358-23 lab8]$ binary_search
+Input a number
+1
+Input a number
+15
+Input a number
+189 
+Input a number
+40
+Input a number
+30
+Input a number
+50
+Input a number
+-1
+2
+-1
+7
+5
+-1
+]777;notify;Command completed;binary_search]0;006083489@csusb.edu@jb358-23:~/Academics/Winter2018/lab8]7;file://jb358-23.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab8[006083489@csusb.edu@jb358-23 lab8]$ exit
+exit
+
+Script done on 2018-03-12 16:20:26-0700

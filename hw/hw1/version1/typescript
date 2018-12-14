@@ -1,0 +1,19 @@
+Script started on 2018-01-29 17:30:28-0800
+]777;notify;Command completed;exit]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/hw/version1]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/version1[006083489@csusb.edu@jb358-32 version1]$ make
+make: 'staff' is up to date.
+]777;notify;Command completed;make]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/hw/version1]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/version1[006083489@csusb.edu@jb358-32 version1]$ ./staff
+ERROR: Please check for duplicate records!
+Raise anybody's salary? y
+Enter name and percent Amanda 25
+Raise anybody else's salary? y
+Enter name and percent Jane 10
+Raise anybody else's salary? n
+Jack 2000
+Jane 3300
+Mark 1000
+Kay 2000
+Amanda 6000
+]777;notify;Command completed;./staff]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/hw/version1]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/version1[006083489@csusb.edu@jb358-32 version1]$ exit
+exit
+
+Script done on 2018-01-29 17:30:59-0800

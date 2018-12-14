@@ -1,0 +1,24 @@
+Script started on 2018-03-13 21:03:20-0700
+]777;notify;Command completed;exit]0;006083489@csusb.edu@jb359-26:~/Academics/Winter2018/hw/hw4]7;file://jb359-26.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw4[006083489@csusb.edu@jb359-26 hw4]$ g++ is_balanced.cpp -o is_balanced
+]777;notify;Command completed;g++ is_balanced.cpp -o is_balanced]0;006083489@csusb.edu@jb359-26:~/Academics/Winter2018/hw/hw4]7;file://jb359-26.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw4[006083489@csusb.edu@jb359-26 hw4]$ is_balanced
+Input file name: file1
+balanced
+]777;notify;Command completed;is_balanced]0;006083489@csusb.edu@jb359-26:~/Academics/Winter2018/hw/hw4]7;file://jb359-26.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw4[006083489@csusb.edu@jb359-26 hw4]$ is_balanced
+Input file name: file2
+balanced
+]777;notify;Command completed;is_balanced]0;006083489@csusb.edu@jb359-26:~/Academics/Winter2018/hw/hw4]7;file://jb359-26.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw4[006083489@csusb.edu@jb359-26 hw4]$ is_balanced
+Input file name: file3
+balanced
+]777;notify;Command completed;is_balanced]0;006083489@csusb.edu@jb359-26:~/Academics/Winter2018/hw/hw4]7;file://jb359-26.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw4[006083489@csusb.edu@jb359-26 hw4]$ is_balanced
+Input file name: file4
+not balanced
+]777;notify;Command completed;is_balanced]0;006083489@csusb.edu@jb359-26:~/Academics/Winter2018/hw/hw4]7;file://jb359-26.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw4[006083489@csusb.edu@jb359-26 hw4]$ is_balanced
+Input file name: file5
+not balanced
+]777;notify;Command completed;is_balanced]0;006083489@csusb.edu@jb359-26:~/Academics/Winter2018/hw/hw4]7;file://jb359-26.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw4[006083489@csusb.edu@jb359-26 hw4]$ is_balanced
+Input file name: file6
+not balanced
+]777;notify;Command completed;is_balanced]0;006083489@csusb.edu@jb359-26:~/Academics/Winter2018/hw/hw4]7;file://jb359-26.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/hw/hw4[006083489@csusb.edu@jb359-26 hw4]$ exit
+exit
+
+Script done on 2018-03-13 21:03:47-0700

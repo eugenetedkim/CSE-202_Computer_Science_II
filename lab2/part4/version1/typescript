@@ -1,0 +1,31 @@
+Script started on 2018-01-29 17:15:32-0800
+]777;notify;Command completed;exit]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab2/part4/version1]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab2/part4/version1[006083489@csusb.edu@jb358-32 version1]$ g++ -o merge merge.cpp
+]777;notify;Command completed;g++ -o merge merge.cpp]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab2/part4/version1]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab2/part4/version1[006083489@csusb.edu@jb358-32 version1]$ ./merge
+Please enter number to add to vector a: 9
+Please enter number to add to vector a or -1 to stop: 4
+Please enter number to add to vector a or -1 to stop: 1
+Please enter number to add to vector a or -1 to stop: 16
+Please enter number to add to vector a or -1 to stop: 5
+Please enter number to add to vector a or -1 to stop: 8
+Please enter number to add to vector a or -1 to stop: 7
+Please enter number to add to vector a or -1 to stop: -1
+Please enter number to add to vector b: 3
+Please enter number to add to vector b or -1 to stop: 5
+Please enter number to add to vector b or -1 to stop: 10
+Please enter number to add to vector b or -1 to stop: 2
+Please enter number to add to vector b or -1 to stop: -1
+9
+3
+4
+5
+1
+10
+16
+2
+5
+8
+7
+]777;notify;Command completed;./merge]0;006083489@csusb.edu@jb358-32:~/Academics/Winter2018/lab2/part4/version1]7;file://jb358-32.cse.csusb.edu/home/csusb.edu/006083489/Academics/Winter2018/lab2/part4/version1[006083489@csusb.edu@jb358-32 version1]$ exit
+exit
+
+Script done on 2018-01-29 17:16:02-0800
